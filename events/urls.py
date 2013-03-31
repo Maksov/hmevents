@@ -4,5 +4,5 @@ from events.views import TestPage
 
 
 urlpatterns = patterns('',
-    url(r'^test/$', TestPage.as_view(), name='test'),
+    url(r'^$', TestPage.as_view(), name='test'),
 )
