@@ -1,0 +1,20 @@
+.idea
+
+# VirtualEnv
+ve
+
+# SublimeText project files
+*.sublime-workspace
+*.sublime-project
+
+# Sqlite3 databases
+*.sqlite3
+
+# Python
+*.py[cod]
+*.log
+*.pot
+local_settings.py
+
+# Sublime Rope
+.ropeproject
